@@ -1,0 +1,20 @@
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.exe
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.pdb
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.xml
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.Form1.resources
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.Resources.resources
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.exe
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.xml
+c:\Projects\Sample.ImageConverter\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.pdb
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.exe
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.xml
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.pdb
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.exe
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.pdb
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.xml
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.Resources.resources
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.Form1.resources

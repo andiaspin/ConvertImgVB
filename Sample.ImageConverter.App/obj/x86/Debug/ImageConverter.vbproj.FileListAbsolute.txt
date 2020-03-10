@@ -1,0 +1,9 @@
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.exe
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.xml
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.pdb
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.exe
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.pdb
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\bin\Debug\Sample.ImageConverter.App.xml
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.Form1.resources
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\Sample.ImageConverter.App.Resources.resources
+C:\Users\Public\Documents\New folder\VB\Sample.ImageConverter.App\obj\x86\Debug\ImageConverter.vbproj.GenerateResource.Cache
